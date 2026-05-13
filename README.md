@@ -58,10 +58,3 @@ RNF3 – Treinamento e Capacitação
 Descrição: Todos os colaboradores devem receber treinamento periódico sobre boas práticas de segurança da informação.
 Critério de Aceitação: 100% dos colaboradores concluem o treinamento anual e passam em avaliação de conhecimento mínimo sobre segurança da informação.
 
-componentes
-Firewall / WAF	(Segurança) Filtra ataques e acessos maliciosos da internet.
-Servidores App	(Computação) Onde o sistema da SecureWave roda (em ambiente isolado).
-Banco de Dados	(Armazenamento)
-AWS KMS	        (Gestão) Gerencia as chaves de segurança da criptografia.
-MFA Service	    (Autenticação) Garante o segundo fator de identificação dos usuários.
-Backup Service	(Resiliência) Realiza cópias de segurança diárias e automáticas.
