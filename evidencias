@@ -1,1 +1,19 @@
+```markdown
+# 🧪 Plano de Testes de Segurança
 
+Este documento detalha os testes realizados para validar a eficácia da PSI e o cumprimento dos Requisitos Funcionais (RF).
+
+| ID | Teste | Procedimento | Resultado Esperado | RF Relacionado |
+| :--- | :--- | :--- | :--- | :--- |
+| **T01** | Acesso Indevido | Tentar acessar o banco de dados via IP externo direto. 
+| O Firewall deve bloquear a conexão imediatamente. | RF1 |
+| **T02** | Login sem MFA | Tentar logar com usuário e senha corretos, mas ignorar o MFA. 
+| O sistema deve impedir o acesso até a validação do 2º fator. | RF1 |
+| **T03** | Dados Criptografados | Tentar ler um arquivo de backup sem a chave de acesso. 
+| O conteúdo deve aparecer como texto ilegível (criptografado). | RF2 |
+| **T04** | Registro de Log | Forçar uma falha de login 5 vezes seguidas. 
+| O sistema deve gerar um log de incidente e alertar o administrador. | RF3 |
+| **T05** | Restauração | Deletar um dado de teste e acionar o script de recuperação. 
+| Os dados devem ser restaurados integralmente via backup. | RF4 |
+| **T06** | Injeção de Dados | Inserir comandos de código (SQL) em campos de texto. 
+| O sistema deve limpar a entrada ou bloquear a ação (Prevenção SQLi). | RF2 |
