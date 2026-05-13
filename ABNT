@@ -32,3 +32,24 @@ adoção de normas internacionais e o cumprimento rigoroso da legislação vigen
 diferenciais que permitem à SecureWave construir uma barreira eficaz contra ameaças cibernéticas. 
 A aplicação desses conceitos fortalece a confiança de clientes e parceiros e 
 solidifica a posição da empresa no mercado de proteção de dados.
+
+Riscos:
+Limitação técnica na detecção de falhas 
+Restrição orçamentária para ferramentas
+Atraso na análise de legislações
+Conflitos em normas estaduais/setoriais
+
+Metodologia:
+O presente projeto será desenvolvido utilizando uma abordagem qualitativa e técnica, dividida em quatro fases principais:
+
+Pesquisa Bibliográfica: Estudo detalhado das normas ISO/IEC 27001 e 27002, 
+além da Lei Geral de Proteção de Dados (LGPD) para fundamentar as diretrizes da PSI.
+
+Modelagem da Solução: Criação de diagramas de arquitetura de rede e definição de ativos 
+tecnológicos necessários para a operação da SecureWave.
+
+Desenvolvimento Normativo: Elaboração da Política de Segurança da Informação (PSI), estabelecendo as regras de conduta e proteção.
+
+Validação e Testes: Execução de simulações de ataques e falhas para testar a 
+eficácia das barreiras de segurança propostas, garantindo que os requisitos funcionais sejam atendidos.
+
