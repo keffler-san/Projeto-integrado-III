@@ -18,6 +18,7 @@ Esta política define regras claras sobre controle de acesso, criptografia, back
 
 A política também inclui monitoramento contínuo e auditorias periódicas, para garantir que a Securewave esteja sempre alinhada às normas legais e aos padrões internacionais de segurança, como a ISO/IEC 27001. Revisões regulares da PSI são realizadas para incorporar novas regulamentações ou melhorias operacionais, mantendo a política atualizada e eficaz. Com essas medidas, a Securewave assegura a proteção das informações de clientes e da própria empresa, fortalecendo a confiança e promovendo um ambiente seguro e confiável para todos os envolvidos.
 
+
 Artefatos: 
 Requisitos Funcionais (RF)
 
