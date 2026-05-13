@@ -1,16 +1,11 @@
-Contextualização: Uma grande proucupaca da atualidade e a seguranca das nossas informacoes pessoais 
-que fornecemos tanto para empresas como a quantidade de informacoes que fornecemos para nossos clientes
-pois todas as nossa informacoes sao preciosas assim nossa empresa busca revisar e aumentar a seguranca 
-dos arquivos|
-Temos que revisar a nessesidade da inportancia da seguranca das informacos que possuimosmo, passamos e como armazenamos
-“Há muitas razões pelas quais a segurança de dados é importante para organizações em todos os setores em todo o mundo. 
-As organizações têm a obrigação legal de proteger os dados de clientes e usuários para evitar que sejam perdidos ou roubados e 
-que caiam nas mãos erradas. Por exemplo, regulamentos do setor e estaduais, como a Lei de Privacidade do Consumidor da Califórnia 
-(California Consumer Privacy Act, CCPA), 
-o Regulamento Geral de Proteção de Dados (General Data Protection Regulation, GDPR) da União Europeia, 
-a Lei de Portabilidade e Responsabilidade de Seguros de Saúde (Health Insurance Portability and Accountability Act, HIPAA) e 
-o Padrão de Segurança de Dados do Setor de Cartões de Pagamento (Payment Card Industry Data Security Standard, PCI DSS) 
-descrevem as obrigações legais das organizações para proteger os dados.”
-(https://www.fortinet.com/br/resources/cyberglossary/data-security)
-Objetivo Geral:Desenvolver regras PSi para uma empresa no ramo (X) buscando seguranca e comfia dos dados
-Objetivos Específicos:
+relatorio abnt: A Segurança da Informação tem se consolidado como um dos pilares fundamentais para a gestão organizacional na era digital, especialmente em empresas que lidam diretamente com dados sensíveis. Nesse contexto, a empresa fictícia SecureWave, cujo foco é a proteção de dados, necessita de uma Política de Segurança da Informação (PSI) robusta, capaz de garantir a confidencialidade, integridade e disponibilidade das informações.
+
+De acordo com a ISO/IEC 27001, a segurança da informação é fundamentada na tríade conhecida como CID: confidencialidade, integridade e disponibilidade. A confidencialidade refere-se à proteção das informações contra acessos não autorizados; a integridade diz respeito à manutenção da exatidão e completude dos dados; e a disponibilidade garante que as informações estejam acessíveis sempre que necessário aos usuários autorizados. Esses princípios são essenciais para assegurar a confiabilidade das informações e a continuidade dos serviços organizacionais.
+
+A Política de Segurança da Informação (PSI) é um instrumento formal que estabelece diretrizes, normas e responsabilidades relacionadas ao uso e à proteção das informações dentro de uma organização. Conforme a ISO/IEC 27002, a PSI deve ser documentada, comunicada a todos os colaboradores e revisada periodicamente, de modo a acompanhar mudanças tecnológicas e organizacionais. Além disso, a política deve estar alinhada aos objetivos estratégicos da empresa, contribuindo para a padronização de processos e a prevenção de incidentes de segurança.
+
+No âmbito legal, destaca-se a Lei Geral de Proteção de Dados (LGPD), que regula o tratamento de dados pessoais no Brasil. Essa legislação estabelece princípios como finalidade, necessidade, transparência e segurança, que devem ser seguidos pelas organizações. A LGPD também garante direitos aos titulares dos dados, como acesso, correção e exclusão de informações pessoais. O não cumprimento dessas diretrizes pode acarretar sanções administrativas, além de prejuízos à imagem da organização.
+
+Outro aspecto relevante é a gestão de riscos em segurança da informação, que consiste na identificação, análise e tratamento de ameaças que possam comprometer os ativos informacionais. Segundo a ISO 31000, a gestão de riscos deve ser um processo contínuo e integrado às atividades organizacionais. Esse processo envolve a identificação de vulnerabilidades, a avaliação do impacto e da probabilidade de ocorrência de incidentes e a implementação de medidas de mitigação. Dessa forma, a organização se torna mais preparada para lidar com possíveis falhas e ataques.
+
+Diante disso, observa-se que a adoção de normas internacionais e o cumprimento da legislação vigente são fundamentais para a construção de uma Política de Segurança da Informação eficaz. No caso da SecureWave, a aplicação desses conceitos contribui para a proteção dos dados, a redução de riscos e o fortalecimento da confiança dos clientes e parceiros.
