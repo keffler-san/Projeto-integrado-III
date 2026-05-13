@@ -1,1 +1,53 @@
+# 🏗️ Arquitetura Técnica - SecureWave
 
+## 1. Diagrama de Topologia de Rede Segura
+Este diagrama representa a estrutura de defesa em camadas da SecureWave, garantindo que os dados sensíveis fiquem na camada mais protegida.
+
+```mermaid
+graph TD
+    subgraph "Internet (Pública)"
+        User((Usuários))
+    end
+
+    subgraph "Camada de Perímetro (DMZ)"
+        WAF[Firewall / WAF]
+        LB[Load Balancer]
+    end
+
+    subgraph "Camada de Aplicação (Privada)"
+        App[Servidores da SecureWave]
+        Auth[Serviço de MFA/Auth]
+    end
+
+    subgraph "Camada de Dados (Restrita)"
+        DB[(Banco de Dados Criptografado)]
+        Bkp[Backup Automatizado]
+    end
+
+    User --> WAF
+    WAF --> LB
+    LB --> App
+    App --> Auth
+    App --> DB
+    DB -.-> Bkp
+codigo criado com ajuda da IA pois nao tenho conhecimento aprofundado na area
+1. Camada de Perímetro (DMZ)
+É a "calçada" e a "recepção" do seu sistema. É a única parte que "conversa" diretamente com a internet pública.
+
+WAF (Firewall): Funciona como um segurança na porta. Ele analisa cada pessoa (acesso) que tenta entrar e bloqueia automaticamente quem parece um invasor ou quem está tentando usar truques maliciosos.
+
+Load Balancer (LB): É o diretor de tráfego. Se houver muitos acessos ao mesmo tempo, ele distribui as pessoas para diferentes servidores para garantir que o site não fique lento nem caia.
+
+2. Camada de Aplicação (Área Privada)
+Aqui é onde o trabalho pesado acontece. É como o escritório interno do banco, onde apenas funcionários autorizados entram.
+
+Servidores da SecureWave: É o "cérebro" do sistema. É aqui que as regras de negócio e o software funcionam. Eles ficam em uma área privada, ou seja, ninguém da internet consegue "enxergar" esses servidores diretamente; eles só conversam com o Load Balancer.
+
+Serviço de MFA/Auth: É o leitor de crachá e biometria. Ele garante que, para realizar qualquer ação importante, o usuário prove quem é (usando senha + um código no celular, por exemplo).
+
+3. Camada de Dados (O Cofre)
+É a parte mais profunda e protegida de toda a estrutura.
+
+Banco de Dados Criptografado (DB): É o cofre principal. Todos os dados sensíveis moram aqui. O fato de ser "criptografado" significa que, mesmo que alguém conseguisse roubar os arquivos, não conseguiria ler nada, pois as informações estão escritas em um código secreto que só a aplicação conhece.
+
+Backup Automatizado: É o plano de emergência. O sistema tira fotos (cópias) de tudo o que está no cofre periodicamente. Se o banco de dados principal sofrer um ataque ou uma falha técnica, essas cópias garantem que nada seja perdido.
