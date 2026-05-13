@@ -1,7 +1,34 @@
 Relatório: Política de Segurança da Informação (PSI) — SecureWave
-📌 IntroduçãoA Segurança da Informação consolidou-se como um dos pilares fundamentais para a gestão organizacional na era digital. Para a SecureWave, empresa focada na proteção de dados sensíveis, a implementação de uma PSI robusta é essencial para garantir a continuidade do negócio e a confiança dos stakeholders.
-🛡️ Fundamentos da Segurança (ISO/IEC 27001)Baseado na norma ISO/IEC 27001, a segurança da informação na SecureWave fundamenta-se na tríade CID:Confidencialidade: Proteção contra acessos não autorizados.Integridade: Manutenção da exatidão e completude dos dados.Disponibilidade: Garantia de acesso aos usuários autorizados sempre que necessário.Esses princípios são o alicerce para assegurar a confiabilidade das informações e a resiliência dos serviços.
-📝 A Política de Segurança da Informação (PSI)Seguindo as diretrizes da ISO/IEC 27002, a PSI da SecureWave é estabelecida como um instrumento formal que define:Diretrizes e Normas: Regras claras para o uso de ativos de informação.Responsabilidades: Atribuições de cada colaborador e gestor.Ciclo de Revisão: Documentação revisada periodicamente para acompanhar evoluções tecnológicas.Alinhamento Estratégico: Padronização de processos focada na prevenção de incidentes.
-⚖️ Conformidade Legal e LGPDA atuação da SecureWave está estritamente alinhada à Lei Geral de Proteção de Dados (LGPD), observando os seguintes princípios fundamentais:PrincípioDescriçãoFinalidadeTratamento de dados para propósitos legítimos e específicos.NecessidadeLimitação do uso ao mínimo necessário para a operação.TransparênciaInformações claras e acessíveis aos titulares.SegurançaMedidas técnicas para prevenir acessos não autorizados e danos.O descumprimento destas normas pode resultar em sanções administrativas severas e danos irreparáveis à imagem da organização.
-🔍 Gestão de Riscos (ISO 31000)A gestão de riscos é tratada como um processo contínuo e integrado, conforme a ISO 31000, estruturada em três etapas principais:Identificação: Mapeamento de vulnerabilidades e ameaças aos ativos.Análise: Avaliação do impacto e da probabilidade de ocorrência de incidentes.Mitigação: Implementação de controles e medidas preventivas.
-💡 ConclusãoA adoção de normas internacionais e o cumprimento rigoroso da legislação vigente são os diferenciais que permitem à SecureWave construir uma barreira eficaz contra ameaças cibernéticas. A aplicação desses conceitos fortalece a confiança de clientes e parceiros e solidifica a posição da empresa no mercado de proteção de dados.
+📌 IntroduçãoA
+Segurança da Informação consolidou-se como um dos pilares fundamentais para a gestão organizacional na era digital. 
+Para a SecureWave, empresa focada na proteção de dados sensíveis,
+a implementação de uma PSI robusta é essencial para garantir a continuidade do negócio e a confiança dos stakeholders.
+🛡️ Fundamentos da Segurança 
+(ISO/IEC 27001)Baseado na norma ISO/IEC 27001, 
+a segurança da informação na SecureWave fundamenta-se na tríade CID:Confidencialidade: Proteção contra acessos não autorizados.
+Integridade: Manutenção da exatidão e completude dos dados.
+Disponibilidade: Garantia de acesso aos usuários autorizados sempre que necessário.
+Esses princípios são o alicerce para assegurar a confiabilidade das informações e a resiliência dos serviços.
+📝 A Política de Segurança da Informação (PSI)
+Seguindo as diretrizes da ISO/IEC 27002, a PSI da SecureWave é estabelecida como um instrumento formal que
+define Diretrizes e Normas: Regras claras para o uso de ativos de informação.
+Responsabilidades: Atribuições de cada colaborador e gestor.
+Ciclo de Revisão: Documentação revisada periodicamente para acompanhar evoluções tecnológicas.
+Alinhamento Estratégico: Padronização de processos focada na prevenção de incidentes.
+⚖️ Conformidade Legal e LGPDA atuação da SecureWave está estritamente alinhada à Lei Geral de Proteção de Dados (LGPD),
+observando os seguintes princípios fundamentais:PrincípioDescriçãoFinalidadeTratamento de dados para propósitos legítimos e específicos.
+NecessidadeLimitação do uso ao mínimo necessário para a operação.
+TransparênciaInformações claras e acessíveis aos titulares.
+SegurançaMedidas técnicas para prevenir acessos não autorizados e danos.
+O descumprimento destas normas pode resultar em sanções administrativas severas e danos irreparáveis à imagem da organização.
+🔍 Gestão de Riscos (ISO 31000)
+A gestão de riscos é tratada como um processo contínuo e integrado, 
+conforme a ISO 31000, estruturada em três etapas principais:
+Identificação: Mapeamento de vulnerabilidades e ameaças aos ativos.
+Análise: Avaliação do impacto e da probabilidade de ocorrência de incidentes.
+Mitigação: Implementação de controles e medidas preventivas.
+💡 ConclusãoA 
+adoção de normas internacionais e o cumprimento rigoroso da legislação vigente são os 
+diferenciais que permitem à SecureWave construir uma barreira eficaz contra ameaças cibernéticas. 
+A aplicação desses conceitos fortalece a confiança de clientes e parceiros e 
+solidifica a posição da empresa no mercado de proteção de dados.
